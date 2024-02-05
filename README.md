@@ -10,13 +10,10 @@
 - [pillow](https://pypi.org/project/pillow/)
 - [pyautogui](https://pypi.org/project/PyAutoGUI/)
 - [customtkinter==4.6.3](https://pypi.org/project/customtkinter/4.6.3/)
-- 
+
+
 ```diff
-- Make sure to use customtkinter 4.6.3 version
-+ to install
-```
-pip install customtkinter==4.6.3
-```
+Make sure to use customtkinter 4.6.3 version
 ```
   
 
