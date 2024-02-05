@@ -1,17 +1,18 @@
-import win11toast
-import moviepy.editor as mpe
-import moviepy.config as mpe_conf
-import pytube
-from pytube import request as pytube_request
-import tkinter
-from tkinter import filedialog
-import os
-import threading
-from urllib import request
-import time
-from PIL import Image , ImageDraw 
-import webbrowser
-import pyautogui
-import customtkinter
-import objects
-import sys
+* 3rd party 
+___________
+win11toast
+moviepy
+pytube
+pillow
+pyautogui
+customtkinter
+
+* Inbuilt
+___________
+tkinter
+time
+os
+sys
+webbrowser
+urllib
+threading
