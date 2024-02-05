@@ -13,7 +13,7 @@
 
 
 ```diff
-Make sure to use customtkinter 4.6.3 version
+-Make sure to use customtkinter 4.6.3 version
 ```
   
 
