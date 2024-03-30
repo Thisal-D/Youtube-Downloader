@@ -3,8 +3,9 @@
 
 ```diff
 -Outdated Version
+
+***<a href="https://github.com/Thisal-D/PyTube-Downloader"> New Version </a>***
 ```
-### <a href="https://github.com/Thisal-D/PyTube-Downloader"> New Version </a>
 
 ## Requirements
 
