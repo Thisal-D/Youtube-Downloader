@@ -39,3 +39,13 @@
 - ![3](https://github.com/Thisal-D/Youtube-Downloader/assets/93121062/d27db295-1686-479b-bf08-fd77578233f6)
 - ![5](https://github.com/Thisal-D/Youtube-Downloader/assets/93121062/19307c06-37a0-49ce-85cb-ee6d38922d23)
 - ![6](https://github.com/Thisal-D/Youtube-Downloader/assets/93121062/e08b3f3e-b7aa-42c5-9e71-769e37743621)
+
+<br>
+<hr>
+<br>
+
+Thanks to :
+
+- [Soorya](https://github.com/sooryasuraweera)
+
+for their support...
